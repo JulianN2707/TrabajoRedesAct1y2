@@ -18,12 +18,13 @@ Rta:
 3.Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 Rta:
 Se resaltan diferentes categorías:
--Mensajería instantánea: Es una forma de comunicación en tiempo real entre dos o más personas en forma de texto escrito que incorpora transferencia de archivos, comunicación por voz y
-video.
+-Mensajería instantánea: Es una forma de comunicación en tiempo real entre dos o más personas en forma de texto escrito que incorpora transferencia de archivos,
+comunicación por voz y video.
 WhatsApp: Es una aplicación muy popular que permite a los usuarios enviar mensajes, hacer llamadas de voz y videollamadas.
 Facebook Messenger: Es la plataforma de mensajería de Facebook, que permite a los usuarios enviar mensajes y hacer llamadas de voz y videollamadas.
 -Herramientas de colaboración: Permiten a las personas trabajar conjuntamente y compartir documentos.
-Stack Overflow: Es una comunidad en línea de programadores y desarrolladores de software que buscan compartir conocimientos, resolver problemas y discutir temas relacionados con la programación y la informática.
+Stack Overflow: Es una comunidad en línea de programadores y desarrolladores de software que buscan compartir conocimientos, resolver problemas y discutir temas
+relacionados con la programación y la informática.
 -Wikis: son páginas Web que un grupo de personas puede editar y visualizar.
 Wikipedia: Es una enciclopedia en línea y de acceso libre que contiene información sobre una amplia variedad de temas.
 -Blog: Son páginas Web fáciles de actualizar y editar.
@@ -36,8 +37,11 @@ Se distinguen dos tipos de factores: Externos e internos.
 Algunos de estos son: Sobrecarga de tráfico.
 -Internos: Se refieren a cualquier aspecto dentro de la red misma que pueda afectar su funcionamiento.
 Tamaño de mensaje: se refiere al tamaño del paquete de datos que se transmite a través de la red.
-Complejidad del mensaje: Se refiere a la cantidad de información y complejidad que contiene el mensaje transmitido a través de la red. Por ejemplo, un mensaje de correo electrónico simple puede tener una complejidad relativamente baja, ya que contiene solo texto y algunos archivos adjuntos, mientras que un mensaje de transmisión de video de alta definición puede tener una complejidad mucho mayor debido a la cantidad de datos involucrados y la necesidad de una transmisión de alta velocidad.
-Importancia del mensaje: La prioridad del mensaje se refiere a la importancia o urgencia de un mensaje específico en comparación con otros mensajes que se transmiten a través de la red. 
+Complejidad del mensaje: Se refiere a la cantidad de información y complejidad que contiene el mensaje transmitido a través de la red. Por ejemplo, un mensaje de correo
+electrónico simple puede tener una complejidad relativamente baja, ya que contiene solo texto y algunos archivos adjuntos, mientras que un mensaje de transmisión de
+video de alta definición puede tener una complejidad mucho mayor debido a la cantidad de datos involucrados y la necesidad de una transmisión de alta velocidad.
+Importancia del mensaje: La prioridad del mensaje se refiere a la importancia o urgencia de un mensaje específico en comparación con otros mensajes que se transmiten
+a través de la red. 
 
 5.Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 Rta:
@@ -50,28 +54,39 @@ Rta:
 Rta: 
 -Los datos son la información concreta o hechos asociados a alguna persona o contexto en específico.
 -Una red de datos es un mecanismo por el cual los sistemas y equipos informáticos pueden intercambiar información entre ellos  ya sean muchos participantes o sólo dos.
--Una red convergente es aquella red que puede ejecutar o alojar varios servicios al mismo tiempo como por ejemplo servicios de voz, datos y video, todo integrado en una sola red.
+-Una red convergente es aquella red que puede ejecutar o alojar varios servicios al mismo tiempo como por ejemplo servicios de voz, datos y video, todo integrado en
+una sola red.
 
 7.Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 Rta:
--Tolerancia a fallas: Debido a que en internet existen millones de usuarios que confían plenamente en sus servicios se debe tener una arquitectura que sea tolerante a fallos es decir que en caso de que ocurra un fallo el sistema tenga la capacidad de recuperarse rápidamente. Dichas redes dependen de enlaces o rutas redundantes entre el origen y el destino del mensaje.
+-Tolerancia a fallas: Debido a que en internet existen millones de usuarios que confían plenamente en sus servicios se debe tener una arquitectura que sea tolerante
+a fallos es decir que en caso de que ocurra un fallo el sistema tenga la capacidad de recuperarse rápidamente. Dichas redes dependen de enlaces o rutas redundantes
+entre el origen y el destino del mensaje.
 -Escalabilidad: Es aquella red que puede expandirse a un nivel muy rápido, admitiendo nuevos usuarios,aplicaciones y servicios sin que su rendimiento se vea afectado.
--Calidad de Servicio: Para los servicios como por ejemplo transmisión de voz, video requieren un nivel de calidad consistente. La calidad de estos servicios se mide con la calidad de experimentar el mismo servicio en persona.
--Seguridad: Debido al exponencial crecimiento de internet se ve obligado a tener una arquitectura de red que brinde seguridad para la integridad de los datos y actualmente se está investigando mucho este área de seguridad.
+-Calidad de Servicio: Para los servicios como por ejemplo transmisión de voz, video requieren un nivel de calidad consistente. La calidad de estos servicios se mide
+con la calidad de experimentar el mismo servicio en persona.
+-Seguridad: Debido al exponencial crecimiento de internet se ve obligado a tener una arquitectura de red que brinde seguridad para la integridad de los datos
+y actualmente se está investigando mucho este área de seguridad.
 
 8.Investigar qué son las redes orientadas y no orientadas a la conexión.
 Rta:
--Redes orientadas a la conexión: Es un tipo de red en el cual se establece una conexión entre dos dispositivos antes de  que puedan intercambiar datos, esta es establecida por medio de un protocolo que asegura la disponibilidad de un canal de comunicación.
--Redes No orientadas a conexión: Es un tipo de red en el cual no se establece una conexión previa antes de intercambiar datos. Se envían paquetes de datos independientes a través de la red sin establecer un canal de comunicación.
+-Redes orientadas a la conexión: Es un tipo de red en el cual se establece una conexión entre dos dispositivos antes de  que puedan intercambiar datos, esta es
+establecida por medio de un protocolo que asegura la disponibilidad de un canal de comunicación.
+-Redes No orientadas a conexión: Es un tipo de red en el cual no se establece una conexión previa antes de intercambiar datos. Se envían paquetes de datos independientes
+a través de la red sin establecer un canal de comunicación.
 
 9.Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 Rta:
-Debido a que todas las redes tienen ciertos inconvenientes y además estas no tienen recursos infinitos, se debe de utilizar mecanismos para garantizar la calidad de servicio. Asegurar esta requiere de un grupo de técnicas para administrar la utilización de los recursos de red , también se deben priorizar los tipos de paquetes de datos que deben enviarse a expensas de otros paquetes que puedan retrasarse.
+Debido a que todas las redes tienen ciertos inconvenientes y además estas no tienen recursos infinitos, se debe de utilizar mecanismos para garantizar la calidad de
+servicio. Asegurar esta requiere de un grupo de técnicas para administrar la utilización de los recursos de red , también se deben priorizar los tipos de paquetes
+de datos que deben enviarse a expensas de otros paquetes que puedan retrasarse.
 
 10.¿Por qué importa la calidad del servicio en una red de datos? 
 Rta:
-Porque garantiza que los recursos de la red se utilicen de manera eficiente y equitativa, y que los servicios críticos tengan la prioridad adecuada para asegurar un funcionamiento óptimo de la red.
-También se mejora la confiabilidad, el rendimiento y la seguridad de la red lo cual es fundamental en cualquier tipo de entorno. Además tener una buena calidad del servicio en una red de datos también garantiza una buena experiencia de usuario.
+Porque garantiza que los recursos de la red se utilicen de manera eficiente y equitativa, y que los servicios críticos tengan la prioridad adecuada para asegurar un
+funcionamiento óptimo de la red.
+También se mejora la confiabilidad, el rendimiento y la seguridad de la red lo cual es fundamental en cualquier tipo de entorno. Además tener una buena calidad del
+servicio en una red de datos también garantiza una buena experiencia de usuario.
 
 Preguntas de lectura: Capítulo 2
 
@@ -79,7 +94,8 @@ Preguntas de lectura: Capítulo 2
 Rta: 
 La estructura de una red se compone de dispositivos,medios y servicios necesarios para lograr comunicaciones.
 -Dispositivos de red: Dispositivos que permiten la interconexión entre los dispositivos finales de la red, como por ejemplo enrutadores o firewalls.
--Medios de transmisión: Son los medios físicos a través de los cuales se transmiten los datos de un dispositivo a otro, como por ejemplo cables de cobre o redes inalámbricas.
+-Medios de transmisión: Son los medios físicos a través de los cuales se transmiten los datos de un dispositivo a otro, como por ejemplo cables de cobre o redes
+inalámbricas.
 -Protocolos de red: Son los conjuntos de reglas y estándares que rigen la comunicación entre dispositivos en una red.
 -Servicios de red: Son los servicios que proporciona una red a sus usuarios.
 -Seguridad de red: Se encarga de proteger los datos y los dispositivos de la red contra amenazas externas.
@@ -92,29 +108,36 @@ Rta:
 -Wan: Es una red que cubre un área geográfica amplia como por ejemplo una ciudad o incluso un país. Estas pueden usar líneas telefónicas o satelitales.
 -Internetwork: Es una red formada por la interconexión de dos o más redes diferentes.
 -Internet: Es una red global de redes que conecta computadoras y dispositivos en todo el mundo.
-Con todo lo definido anteriormente se puede concluir que la principal  diferencia entre estos términos es el alcance geográfico de la red como se puede ver lan cubre un área pequeña, wan cubre un área amplia, internetwork conecta tipos de redes e internet es una red global de redes interconectadas.
+Con todo lo definido anteriormente se puede concluir que la principal  diferencia entre estos términos es el alcance geográfico de la red como se puede ver lan cubre
+un área pequeña, wan cubre un área amplia, internetwork conecta tipos de redes e internet es una red global de redes interconectadas.
 
 3.¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 Rta:
-Como se definió anteriormente internetwork es una red formada por la interconexión de dos o más redes de diferentes tipos  ya sean lan o wan que se conectan por un router o dispositivo similar, en cambio por otro lado internet es una red global de redes que conecta computadoras y dispositivos en todo el mundo.
+Como se definió anteriormente internetwork es una red formada por la interconexión de dos o más redes de diferentes tipos  ya sean lan o wan que se conectan por un
+router o dispositivo similar, en cambio por otro lado internet es una red global de redes que conecta computadoras y dispositivos en todo el mundo.
 Prácticamente la principal diferencia entre estos dos términos es en base a su alcance y naturaleza.
 
 4.Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 Rta:
-La NIC es el dispositivo que se utiliza para conectar una computadora a una red, el puerto físico es el punto de conexión física en un dispositivo de red, y la interfaz de red es el punto de conexión lógica que se crea para permitir que la NIC se comunique con la red. Juntos, estos componentes permiten que una computadora se conecte y se comunique con otros dispositivos de red en una red local o en Internet.
+La NIC es el dispositivo que se utiliza para conectar una computadora a una red, el puerto físico es el punto de conexión física en un dispositivo de red, y la
+interfaz de red es el punto de conexión lógica que se crea para permitir que la NIC se comunique con la red. Juntos, estos componentes permiten que una computadora
+se conecte y se comunique con otros dispositivos de red en una red local o en Internet.
 
 5.¿Por qué se dice que un protocolo es independiente de la tecnología? 
 Rta: 
-Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracción independiente entre cada componente de la red con el objetivo de que diferentes tecnologías y dispositivos se comuniquen de manera confiable y eficiente.
+Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracción independiente
+entre cada componente de la red con el objetivo de que diferentes tecnologías y dispositivos se comuniquen de manera confiable y eficiente.
  
 6.Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 Rta:
-Es una unidad de información que se utiliza en la comunicación entre dos dispositivos en una red de computadoras. Se compone de una abstracción que representa los datos que se transmiten a través de la red, su formato y contenido dependen del protocolo de red que se esté utilizando.
+Es una unidad de información que se utiliza en la comunicación entre dos dispositivos en una red de computadoras. Se compone de una abstracción que representa los
+datos que se transmiten a través de la red, su formato y contenido dependen del protocolo de red que se esté utilizando.
 
 
 8.Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 Rta:
-La principal diferencia que existe entre estos dos modelos es que los modelos de protocolo se centran en los detalles específicos de un protocolo de red (estructura), mientras que los modelos de referencia son marcos más amplios que describen cómo funcionan los procesos involucrados en las redes en general.
+La principal diferencia que existe entre estos dos modelos es que los modelos de protocolo se centran en los detalles específicos de un protocolo de red (estructura),
+mientras que los modelos de referencia son marcos más amplios que describen cómo funcionan los procesos involucrados en las redes en general.
 
 
 9.Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
@@ -126,12 +149,15 @@ Modelo OSI:
 -Capa de transporte: Define los servicios para segmentar, transferir los datos para las comunicaciones individuales.
 -Capa de red: Proporciona servicios para intercambiar los datos individuales en la red.
 -Capa de enlace de datos: Se encarga de proporcionar un enlace de comunicación confiable entre dispositivos en una misma red física.
--Capa física: Se encarga de la transmisión y recepción de datos entre dispositivos en una red, se establece una conexión física y después se definen las características necesarias para transmitir los datos.
+-Capa física: Se encarga de la transmisión y recepción de datos entre dispositivos en una red, se establece una conexión física y después se definen las características
+necesarias para transmitir los datos.
 Modelo TCP/IP:
 -Capa de aplicación: Proporcionan el intercambio de información del usuario.
 -Capa de transporte: Se encarga de la transferencia de datos de manera confiable entre los dispositivos de origen y destino 
--Capa de red(o internet): Se encarga de la entrega de datos de una red a otra red, además es responsable de enrutar los paquetes de datos desde un origen a otro destino usando el protocolo IP.
--Capa de acceso a la red: Se encarga de la transmisión física de los datos a través del medio físico de la red como por ejemplo cableado de cobre y fibra óptica. Además también se encarga de mantener la conexión entre los dispositivos.
+-Capa de red(o internet): Se encarga de la entrega de datos de una red a otra red, además es responsable de enrutar los paquetes de datos desde un origen a otro destino
+usando el protocolo IP.
+-Capa de acceso a la red: Se encarga de la transmisión física de los datos a través del medio físico de la red como por ejemplo cableado de cobre y fibra óptica.
+Además también se encarga de mantener la conexión entre los dispositivos.
 
 
 
