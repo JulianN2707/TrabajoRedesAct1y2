@@ -46,6 +46,13 @@ Rta:
 -Mensajes: Es un conjunto de datos que se envía desde un dispositivo de origen a uno o varios dispositivos de destino a través de la red. 
 -Dispositivos: Son los componentes físicos que se conectan a la red y que permiten la comunicación y el intercambio de datos entre ellos.
 
+6.Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+Rta: 
+-Los datos son la información concreta o hechos asociados a alguna persona o contexto en específico.
+-Una red de datos es un mecanismo por el cual los sistemas y equipos informáticos pueden intercambiar información entre ellos  ya sean muchos participantes o sólo dos.
+-Una red convergente es aquella red que puede ejecutar o alojar varios servicios al mismo tiempo como por ejemplo servicios de voz, datos y video, todo integrado en una sola red.
+
+
 
 
 
