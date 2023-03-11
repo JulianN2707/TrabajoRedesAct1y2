@@ -15,3 +15,20 @@ Rta:
 -Gps.
 -Gestión de correos.
 
+3.Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+Rta:
+Se resaltan diferentes categorías:
+-Mensajería instantánea: Es una forma de comunicación en tiempo real entre dos o más personas en forma de texto escrito que incorpora transferencia de archivos, comunicación por voz y
+video.
+WhatsApp: Es una aplicación muy popular que permite a los usuarios enviar mensajes, hacer llamadas de voz y videollamadas.
+Facebook Messenger: Es la plataforma de mensajería de Facebook, que permite a los usuarios enviar mensajes y hacer llamadas de voz y videollamadas.
+-Herramientas de colaboración: Permiten a las personas trabajar conjuntamente y compartir documentos.
+Stack Overflow: Es una comunidad en línea de programadores y desarrolladores de software que buscan compartir conocimientos, resolver problemas y discutir temas relacionados con la programación y la informática.
+-Wikis: son páginas Web que un grupo de personas puede editar y visualizar.
+Wikipedia: Es una enciclopedia en línea y de acceso libre que contiene información sobre una amplia variedad de temas.
+-Blog: Son páginas Web fáciles de actualizar y editar.
+JavaWorld: Es un blog que se enfoca en temas de Java, incluyendo tutoriales, consejos, noticias y tendencias en el mundo de Java.
+
+
+
+
