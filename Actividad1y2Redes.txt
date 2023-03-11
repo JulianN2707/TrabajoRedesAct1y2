@@ -112,6 +112,11 @@ Rta:
 Es una unidad de información que se utiliza en la comunicación entre dos dispositivos en una red de computadoras. Se compone de una abstracción que representa los datos que se transmiten a través de la red, su formato y contenido dependen del protocolo de red que se esté utilizando.
 
 
+8.Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Rta:
+La principal diferencia que existe entre estos dos modelos es que los modelos de protocolo se centran en los detalles específicos de un protocolo de red (estructura), mientras que los modelos de referencia son marcos más amplios que describen cómo funcionan los procesos involucrados en las redes en general.
+
+
 
 
 
