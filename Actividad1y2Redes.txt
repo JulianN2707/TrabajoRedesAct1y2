@@ -103,6 +103,10 @@ Prácticamente la principal diferencia entre estos dos términos es en base a su
 Rta:
 La NIC es el dispositivo que se utiliza para conectar una computadora a una red, el puerto físico es el punto de conexión física en un dispositivo de red, y la interfaz de red es el punto de conexión lógica que se crea para permitir que la NIC se comunique con la red. Juntos, estos componentes permiten que una computadora se conecte y se comunique con otros dispositivos de red en una red local o en Internet.
 
+5.¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Rta: 
+Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracción independiente entre cada componente de la red con el objetivo de que diferentes tecnologías y dispositivos se comuniquen de manera confiable y eficiente.
+ 
 
 
 
